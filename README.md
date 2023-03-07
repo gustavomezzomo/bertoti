@@ -33,6 +33,4 @@ design simples voltado a uma navegação acessível a todos, permitindo que uma 
   
 <img src = https://github.com/gustavomezzomo/bertoti/blob/main/engenhariaDeSoftware/Classe%20turma.drawio.png>
   
-~~~
-
 
