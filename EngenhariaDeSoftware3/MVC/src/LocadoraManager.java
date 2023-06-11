@@ -15,7 +15,7 @@ public class LocadoraManager {
         return instance;
     }
 
-    public int getLibraryId() {
+    public int getLocadoraId() {
         return LocadoraId;
     }
 

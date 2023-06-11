@@ -7,7 +7,7 @@ public class LocadoraView implements Observer {
         this.model = model;
     }
 
-    public void displayBooks(List<Filme> filmes) {
+    public void displayFilmes(List<Filme> filmes) {
         if (filmes.isEmpty()) {
             System.out.println("Nenhum filme encontrado.");
         } else {
